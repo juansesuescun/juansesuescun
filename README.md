@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juansesuescun
-- 👀 I’m interested in learning a lot, stud, the universe, sports and staying happy
-- 🌱 I’m currently learning a lot of coding, software developer
-- 💞️ I’m looking to collaborate  in software development
+- 👀 I’m interested in learning a lot, study, the universe, sports and food
+- 🌱 Junior Developer
+- 💞️ 
 - 📫 How to reach me jssuescungi@unal.edu.co
 
 <!---
